@@ -1,1 +1,1 @@
-# thakur-buspass
+# tanishq-buspass
